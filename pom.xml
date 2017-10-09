@@ -62,6 +62,7 @@
           	</archive>
 				<descriptors>
 					<descriptor>src/assembly/assemblySrc.xml</descriptor>
+					<descriptor>src/assembly/assemblyBin.xml</descriptor>
 				</descriptors>
 				<descriptorRefs>
             		<descriptorRef>jar-with-dependencies</descriptorRef>
